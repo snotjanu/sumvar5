@@ -1,0 +1,10 @@
+Package: sumvar3
+Type: Package
+Title: Calculate total and variance of an integer data x
+Version: 1.0
+Date: 2015-06-07
+Author: Md.Shahjaman<shahjaman_brur@yahoo.com>
+Maintainer: Md.Shahjaman<shahjaman_brur@yahoo.com>
+Description: Calculate Variance of an integer
+Depends: Rcpp
+License: GP2
